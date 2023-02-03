@@ -5,3 +5,10 @@
 ![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@paraselixir/react-core-components)
 
 [Uisng https://shields.io/category/version]
+
+
+# How to use
+
+$ npm install @paraselixir/react-core-components
+
+

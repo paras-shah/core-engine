@@ -1,0 +1,12 @@
+{
+  "name": "@paraselixir/react-core-components",
+  "version": "1.0.0",
+  "description": "Core components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["-core-components", "core-components", "react-ui-kit","npm", "package"],
+  "author": "",
+  "license": "ISC"
+}
